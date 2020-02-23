@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "name": "event1",
+      "image": "https://jeffer-dev.github.io/photo-gallery/assets/events/event1.jpg"
+    },
+    {
+      "name": "event2",
+      "image": "https://jeffer-dev.github.io/photo-gallery/assets/events/event2.jpg"
+    },
+    {
+      "name": "event3",
+      "image": "https://jeffer-dev.github.io/photo-gallery/assets/events/event3.jpg"
+    },
+    {
+      "name": "event4",
+      "image": "https://jeffer-dev.github.io/photo-gallery/assets/events/event4.jpg"
+    }
+  ]
+}
