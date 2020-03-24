@@ -2,243 +2,303 @@
   "photos": [
     {
       "name": "img(1)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(1).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(1).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(1)-500.jpg"
     },
     {
       "name": "img(2)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(2).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(2).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(2)-500.jpg"
     },
     {
       "name": "img(3)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(3).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(3).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(3)-500.jpg"
     },
     {
       "name": "img(4)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(4).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(4).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(4)-500.jpg"
     },
     {
       "name": "img(5)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(5).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(5).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(5)-500.jpg"
     },
     {
       "name": "img(6)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(6).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(6).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(6)-500.jpg"
     },
     {
       "name": "img(7)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(7).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(7).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(7)-500.jpg"
     },
     {
       "name": "img(8)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(8).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(8).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(8)-500.jpg"
     },
     {
       "name": "img(9)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(9).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(9).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(9)-500.jpg"
     },
     {
       "name": "img(10)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(10).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(10).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(10)-500.jpg"
     },
     {
       "name": "img(11)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(11).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(11).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(11)-500.jpg"
     },
     {
       "name": "img(12)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(12).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(12).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(12)-500.jpg"
     },
     {
       "name": "img(13)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(13).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(13).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(13)-500.jpg"
     },
     {
       "name": "img(14)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(14).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(14).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(14)-500.jpg"
     },
     {
       "name": "img(15)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(15).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(15).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(15)-500.jpg"
     },
     {
       "name": "img(16)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(16).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(16).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(16)-500.jpg"
     },
     {
       "name": "img(17)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(17).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(17).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(17)-500.jpg"
     },
     {
       "name": "img(18)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(18).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(18).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(18)-500.jpg"
     },
     {
       "name": "img(19)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(19).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(19).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(19)-500.jpg"
     },
     {
       "name": "img(20)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(20).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(20).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(20)-500.jpg"
     },
     {
       "name": "img(21)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(21).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(21).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(21)-500.jpg"
     },
     {
       "name": "img(22)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(22).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(22).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(22)-500.jpg"
     },
     {
       "name": "img(23)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(23).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(23).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(23)-500.jpg"
     },
     {
       "name": "img(24)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(24).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(24).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(24)-500.jpg"
     },
     {
       "name": "img(25)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(25).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(25).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(25)-500.jpg"
     },
     {
       "name": "img(26)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(26).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(26).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(26)-500.jpg"
     },
     {
       "name": "img(27)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(27).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(27).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(27)-500.jpg"
     },
     {
       "name": "img(28)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(28).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(28).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(28)-500.jpg"
     },
     {
       "name": "img(29)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(29).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(29).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(29)-500.jpg"
     },
     {
       "name": "img(30)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(30).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(30).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(30)-500.jpg"
     },
     {
       "name": "img(31)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(31).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(31).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(31)-500.jpg"
     },
     {
       "name": "img(32)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(32).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(32).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(32)-500.jpg"
     },
     {
       "name": "img(33)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(33).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(33).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(33)-500.jpg"
     },
     {
       "name": "img(34)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(34).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(34).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(34)-500.jpg"
     },
     {
       "name": "img(35)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(35).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(35).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(35)-500.jpg"
     },
     {
       "name": "img(36)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(36).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(36).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(36)-500.jpg"
     },
     {
       "name": "img(37)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(37).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(37).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(37)-500.jpg"
     },
     {
       "name": "img(38)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(38).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(38).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(38)-500.jpg"
     },
     {
       "name": "img(39)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(39).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(39).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(39)-500.jpg"
     },
     {
       "name": "img(40)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(40).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(40).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(40)-500.jpg"
     },
     {
       "name": "img(41)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(41).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(41).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(41)-500.jpg"
     },
     {
       "name": "img(42)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(42).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(42).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(42)-500.jpg"
     },
     {
       "name": "img(43)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(43).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(43).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(43)-500.jpg"
     },
     {
       "name": "img(44)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(44).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(44).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(44)-500.jpg"
     },
     {
       "name": "img(45)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(45).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(45).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(45)-500.jpg"
     },
     {
       "name": "img(46)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(46).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(46).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(46)-500.jpg"
     },
     {
       "name": "img(47)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(47).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(47).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(47)-500.jpg"
     },
     {
       "name": "img(48)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(48).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(48).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(48)-500.jpg"
     },
     {
       "name": "img(49)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(49).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(49).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(49)-500.jpg"
     },
     {
       "name": "img(50)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(50).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(50).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(50)-500.jpg"
     },
     {
       "name": "img(51)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(51).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(51).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(51)-500.jpg"
     },
     {
       "name": "img(52)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(52).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(52).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(52)-500.jpg"
     },
     {
       "name": "img(53)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(53).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(53).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(53)-500.jpg"
     },
     {
       "name": "img(54)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(54).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(54).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(54)-500.jpg"
     },
     {
       "name": "img(55)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(55).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(55).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(55)-500.jpg"
     },
     {
       "name": "img(56)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(56).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(56).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(56)-500.jpg"
     },
     {
       "name": "img(57)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(57).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(57).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(57)-500.jpg"
     },
     {
       "name": "img(58)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(58).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(58).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(58)-500.jpg"
     },
     {
       "name": "img(59)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(59).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(59).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(59)-500.jpg"
     },
     {
       "name": "img(60)",
-      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(60).jpg"
+      "url": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(60).jpg",
+      "thumbnail": "https://jeffer-dev.github.io/photo-gallery/assets/photos/event1/img(60)-500.jpg"
     }
   ]
 }
